@@ -4,7 +4,7 @@
 
 This repo contains the MEAN stack application that is built through  Full Stack Training's MEAN Stack Udemy course.
 
-Note: This project I made is adapted to changes made in versions of mongoose, mongodb, express
+Note: This project I made is adapted to changes made in versions of mongoose, mongodb, express for 2018 instead of 2016
 <hr>
 
 In this project I built a system of hotels with the tools of MEAN:
