@@ -33,7 +33,9 @@ you need to upload initial data of the api/data/hotel-data.json file to the mong
 And now after you run all the project you can enter to : 
 `http://localhost:3000/#!/`
 <br>
-and now you can see all these following screenshots: 
+and now you can see all these following screenshots:
+<br>
+<br>
 ![image1](https://profile.fcdn.co.il/images2/0__05b545edf81d0a.jpg)
 
 ![image2](https://profile.fcdn.co.il/images2/0__05b545f5660c91.jpg)
