@@ -29,10 +29,11 @@ and to run the project using: `npm start` or `node app.js` or `nodemon` on the C
 you need to upload initial data of the api/data/hotel-data.json file to the mongodb first by the commend: <br>
 `mongoimport --db meanhotel --collection hotels --jsonArray api/data/hotel-data.json` 
 <br>
-<br>
+<hr>
 And now after you run all the project you can enter to : 
 `http://localhost:3000/#!/`
-and you can see all these following screenshots: 
+<br>
+and now you can see all these following screenshots: 
 ![image1](https://profile.fcdn.co.il/images2/0__05b545edf81d0a.jpg)
 
 ![image2](https://profile.fcdn.co.il/images2/0__05b545f5660c91.jpg)
